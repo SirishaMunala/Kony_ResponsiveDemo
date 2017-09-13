@@ -1,0 +1,30 @@
+https://github.com/SirishaMunala/iOS_PassBookSample.git
+https://github.com/SirishaMunala/iOS_CustomFontAppSample.git
+https://github.com/SirishaMunala/Geolocation_Sample.git
+https://github.com/SirishaMunala/Kony_LocalAuthenticaltionSample.git
+https://github.com/SirishaMunala/iOS_LocaleSpecificSplashscreens.git
+https://github.com/SirishaMunala/Kony_LocationServiceSample.git
+https://github.com/SirishaMunala/Kony_MapCalloutSample.git
+https://github.com/SirishaMunala/iOS_SplashScreens.git
+https://github.com/Kony-CSE/Kony_DynamicAppMenu.git
+https://github.com/Kony-CSE/Kony_CameraModes.git
+https://github.com/Kony-CSE/Kony_ContactSearchSample.git
+https://github.com/Kony-CSE/Kony_DragDropSample.git
+https://github.com/Kony-CSE/Kony_SegmentSelectionSample.git
+https://github.com/Kony-CSE/Native_AndroidWearNotification.git
+https://github.com/Kony-CSE/Kony_7.0NewFeatures.git
+https://github.com/Kony-CSE/Kony_7.0MapEnhancementsSample.git
+https://github.com/Kony-CSE/Kony_7.0CameraEnhancementsSample.git
+https://github.com/Kony-CSE/Kony_SegmentAnimationsSample.git
+https://github.com/Kony-CSE/Android_NativeWidgetsSample.git
+
+
+https://github.com/Kony-CSE/Kony_LocalAuthenticaltionSample.git
+
+
+
+$ git init
+$ git add .
+$git remote add origin https://github.com/SirishaMunala/iOS_iBeacons_Application.git
+$ git commit -a -m "Commit on iOS Beacon Sample application"
+$ git push -u origin master
